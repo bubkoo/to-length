@@ -41,13 +41,12 @@ toLength(false); // => 0
 
 - [is-length](https://github.com/bubkoo/is-length) - Checks if the given value is a valid array-like length.
 - [is-index](https://github.com/bubkoo/is-index) - Checks if the given value is a valid array-like index.
-- [to-num](https://github.com/bubkoo/to-num) - Converts the given value to a number.
-- [to-integer](https://github.com/bubkoo/to-integer) - Converts the given value to an integer.
-- [shuffle-arr](https://github.com/bubkoo/shuffle-arr) - Randomize the order of the elements in an array(array like object). 
 - [pick-item](https://github.com/bubkoo/pick-item) - Randomly sampling a item from an array.
 - [pick-items](https://github.com/bubkoo/pick-items) - Randomly sampling some items from an array. 
 - [drop-left](https://github.com/bubkoo/drop-left) - Creates a slice of array with n elements dropped from the beginning.
 - [drop-right](https://github.com/bubkoo/drop-right) - Creates a slice of array with n elements dropped from the end.
+- [shuffle-arr](https://github.com/bubkoo/shuffle-arr) - Randomize the order of the elements in an array or array-like object. 
+- [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or array-like object.
 
 ## Contributing
 
