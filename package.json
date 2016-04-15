@@ -1,6 +1,6 @@
 {
   "name": "to-length",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts value to an integer suitable for use as the length of an array-like object.",
   "main": "index.js",
   "scripts": {
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/to-length.git"
+    "url": "git+https://github.com/gearcase/to-length.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/to-length/issues"
+    "url": "https://github.com/gearcase/to-length/issues"
   },
-  "homepage": "https://github.com/bubkoo/to-length#readme",
+  "homepage": "https://github.com/gearcase/to-length#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
